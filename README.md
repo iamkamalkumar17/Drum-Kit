@@ -23,9 +23,9 @@ Check out the live demo of the Drum Kit Website: [Drum Kit](https://iamkamalkuma
 * CSS
 * JavaScript
 
-##Screenshots
+## Screenshots
 
-<img src="https://imgur.com/a/NXKhToW" alt="screenshot of the project">
+![screen](https://github.com/iamkamalkumar17/Drum-Kit/assets/88319916/14938495-d4f3-40dc-84ce-966aeee614f9)
 
 ## Contributions
 Contributions to enhance the Drum Kit Website are welcome! Feel free to fork this repository, make improvements, and create a pull request.
