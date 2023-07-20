@@ -16,7 +16,7 @@ Check out the live demo of the Drum Kit Website: [Drum Kit](https://iamkamalkuma
 2. Open the index.html file in your web browser.
 3. Click on the drums or press the respective keys displayed on the drum images to play the sounds.
 4. Enjoy the interactive drumming experience!
-* Or simply click on this [link]((https://iamkamalkumar17.github.io/Drum-Kit/)
+* Or simply click on this [link](https://iamkamalkumar17.github.io/Drum-Kit/)
 
 ## Technologies Used
 * HTML
@@ -24,7 +24,8 @@ Check out the live demo of the Drum Kit Website: [Drum Kit](https://iamkamalkuma
 * JavaScript
 
 ##Screenshots
-![drum kit website](https://imgur.com/a/NXKhToW)
+
+<img src="https://imgur.com/a/NXKhToW" alt="screenshot of the project">
 
 ## Contributions
 Contributions to enhance the Drum Kit Website are welcome! Feel free to fork this repository, make improvements, and create a pull request.
